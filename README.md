@@ -1,5 +1,5 @@
 # 🛒 Walmart Store Sales Analysis Dashboard  
-*A Power BI Project by Kushal — Master of Data Science, University of Adelaide*
+*A Power BI Project by Kushal - Master of Data Science, University of Adelaide*
 
 ---
 
@@ -71,4 +71,3 @@ This dashboard enables Walmart’s business teams to:
 
 ---
 
-## 📂 Repository Structure  
